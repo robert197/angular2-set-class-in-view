@@ -1,0 +1,27 @@
+{
+  "name": "angular2-set-class-in-view",
+  "version": "1.0.0",
+  "description": "angular2 directive which sets a given class to element where attribute [setClassInView]=\"'className'\" is placed.",
+  "main": "app.showInView.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert197/angular2-set-class-in-view.git"
+  },
+  "keywords": [
+    "angular2",
+    "set",
+    "class",
+    "in",
+    "view",
+    "directive"
+  ],
+  "author": "robert.p1991@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert197/angular2-set-class-in-view/issues"
+  },
+  "homepage": "https://github.com/robert197/angular2-set-class-in-view#readme"
+}
